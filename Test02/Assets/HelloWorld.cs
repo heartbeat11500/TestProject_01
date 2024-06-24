@@ -25,5 +25,6 @@ public class HelloWorld : MonoBehaviour
     public void OnTriggerEnter(Collider other)
     {
         Debug.Log("Test");
+        Debug.Log("dwdaad");
     }
 }
