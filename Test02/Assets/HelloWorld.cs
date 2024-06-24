@@ -21,4 +21,9 @@ public class HelloWorld : MonoBehaviour
         Debug.Log("Test");
         Debug.Log("ClickMe");
     }
+
+    public void OnTriggerEnter(Collider other)
+    {
+        Debug.Log("Test");
+    }
 }
