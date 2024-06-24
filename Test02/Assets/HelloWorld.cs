@@ -26,5 +26,7 @@ public class HelloWorld : MonoBehaviour
     {
         Debug.Log("Test");
         Debug.Log("dwdaad");
+        Debug.Log("asdasd");
+
     }
 }
