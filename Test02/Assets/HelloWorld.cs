@@ -19,5 +19,6 @@ public class HelloWorld : MonoBehaviour
     public void ShowMe()
     {
         Debug.Log("Test");
+        Debug.Log("ClickMe");
     }
 }
